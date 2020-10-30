@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GERON\'s FORMULA</string>
+    <string name="rule">Чтобы узнать площадь треугольника, можно найти корень произведения полупериметра треугольника на его разность с каждой сторон\n(p - полупериметр): </string>
+    <string name="suggestion">Впишите значения сторон:</string>
+    <string name="a_text">A:</string>
+    <string name="b_text">B:</string>
+    <string name="c_text">C:</string>
+    <string name="p_text">p =</string>
+    <string name="s_text">S =</string>
+    <string name="answer">Ответ:</string>
+    <string name="btn_text">Результат</string>
+</resources>
